@@ -2,10 +2,10 @@
 
 using Xunit;
 
-using PixelDance.ReativeBus.Abstractions;
-using PixelDance.ReativeBus.Inrastructure;
+using BitShifter.ReativeBus.Abstractions;
+using BitShifter.ReativeBus.Inrastructure;
 
-namespace PixelDance.ReactiveBus.Tests.Fixtures
+namespace BitShifter.ReactiveBus.Tests.Fixtures
 {
     public class EventBusFixture : IAsyncLifetime
     {

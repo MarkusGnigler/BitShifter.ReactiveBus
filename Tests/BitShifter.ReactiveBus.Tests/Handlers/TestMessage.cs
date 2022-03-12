@@ -1,8 +1,8 @@
 ﻿using System;
 
-using PixelDance.ReativeBus.Abstractions;
+using BitShifter.ReativeBus.Abstractions;
 
-namespace PixelDance.ReactiveBus.Tests.Handlers
+namespace BitShifter.ReactiveBus.Tests.Handlers
 {
     internal class TestMessage : IEvent
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PixelDance.ReativeBus.Abstractions
+namespace BitShifter.ReativeBus.Abstractions
 {
     public interface IEventBus
     {

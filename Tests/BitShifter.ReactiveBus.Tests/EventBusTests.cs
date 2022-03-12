@@ -1,10 +1,10 @@
 ﻿using Xunit;
 using FluentAssertions;
 
-using PixelDance.ReactiveBus.Tests.Fixtures;
-using PixelDance.ReactiveBus.Tests.Handlers;
+using BitShifter.ReactiveBus.Tests.Fixtures;
+using BitShifter.ReactiveBus.Tests.Handlers;
 
-namespace PixelDance.ReactiveBus.Tests
+namespace BitShifter.ReactiveBus.Tests
 {
     public class EventBusTests : TestBase
     {

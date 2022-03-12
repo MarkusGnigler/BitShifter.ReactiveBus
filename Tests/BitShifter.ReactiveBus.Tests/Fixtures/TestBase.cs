@@ -2,9 +2,9 @@
 
 using Xunit;
 
-using PixelDance.ReactiveBus.Tests.Handlers;
+using BitShifter.ReactiveBus.Tests.Handlers;
 
-namespace PixelDance.ReactiveBus.Tests.Fixtures
+namespace BitShifter.ReactiveBus.Tests.Fixtures
 {
     public abstract class TestBase : IClassFixture<EventBusFixture>, IDisposable
     {

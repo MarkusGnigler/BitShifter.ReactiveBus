@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Src\PixelDance.ReativeBus\PixelDance.ReativeBus.csproj" />
+    <ProjectReference Include="..\..\Src\BitShifter.ReativeBus\BitShifter.ReativeBus.csproj" />
   </ItemGroup>
 
 </Project>

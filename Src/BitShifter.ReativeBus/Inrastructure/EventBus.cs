@@ -4,9 +4,9 @@ using System.Linq;
 using System.Reactive.Linq;
 using System.Reactive.Subjects;
 
-using PixelDance.ReativeBus.Abstractions;
+using BitShifter.ReativeBus.Abstractions;
 
-namespace PixelDance.ReativeBus.Inrastructure
+namespace BitShifter.ReativeBus.Inrastructure
 {
     public class EventBus : IEventBus
     {
